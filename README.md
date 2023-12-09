@@ -1,6 +1,6 @@
 ## COMP 3612 - Assignment 3
 
-### Hosting is done at glitch: https://rogue-angry-almandine.glitch.me](https://glitch.com/edit/#!/rogue-angry-almandine
+#### Hosting is done at glitch.com
 
 #### Example API Requests:
 1.) https://rogue-angry-almandine.glitch.me/api/paintings <br>
